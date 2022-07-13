@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_xiaomi_monet",
+    "target_path": "vendor/xiaomi/monet"
+  },
+  {
     "repository": "android_device_xiaomi_sm7250-common",
     "target_path": "device/xiaomi/sm7250-common"
   }
